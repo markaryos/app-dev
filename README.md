@@ -16,4 +16,3 @@ My first repository
 
 *Phase Five begins with Ant-Man and the Wasp: Quantumania (2023), followed by Guardians of the Galaxy Vol. 3 (2023), The Marvels (2023), Captain America: New World Order (2024), Thunderbolts (2024), and Blade (2024). This phase will also include a total of seven seasons of television series for Disney+. Phase Six will include Deadpool 3 (2024), Fantastic Four (2025), Avengers: The Kang Dynasty (2025), and Avengers: Secret Wars (2026). The fourth, fifth, and sixth Phases are collectively known as "The Multiverse Saga".*
 
-X^2^
